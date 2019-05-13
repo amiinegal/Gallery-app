@@ -18,7 +18,7 @@ _amin egal_
 BDD
 
 
-<!-- ### Technologies Used
+### Technologies Used
 * CSS.
 * HTML.
 * Python3.6.
@@ -26,7 +26,7 @@ BDD
 * Dependencies
 * pip
 * Bootstrap4
-* pillow -->
+* pillow
 
 ### Support and contact details
 #### Telephone: _0741080373_
