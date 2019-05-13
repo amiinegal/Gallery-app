@@ -12,7 +12,7 @@ class LocationTestClass(TestCase):
 
 
     def setUp(self):
-        self.test_location = Location(name = 'Nairobi')
+        self.test_location = Location(location_name = 'nairobi')
         self.test_location.save()
 
     #Testing instance
@@ -44,7 +44,7 @@ class ImageTestClass(TestCase):
     def setUp(self):
 
 
-        self.nairobi = Location.objects.create(name="nairobi")
+        self.nairobi = Location.objects.create(location_name="nairobi")
         self.funny= tags.objects.create(name='funny')
 
 
@@ -55,8 +55,7 @@ class ImageTestClass(TestCase):
                                 )
 
 
-        # self.test_image.location.add(self.nairobi)
-        # self.test_image.tags.add(self.funny)
+        
         self.test_image.save()
 
     def test_save_method(self):
