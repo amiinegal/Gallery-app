@@ -15,8 +15,13 @@ _amin egal_
 *  Run by:
            ``` pyhton3.6 manage.py server ```
 
-BDD
-
+### BDD
+|  Behavior | Input  | Output  |
+|:-:|---|---|
+|  user logs in as an admin | where he fills in a form  | username, password  |
+|  option to add images |  choose from file to upload an image, and form to input the images details |the image is uploaded   |
+| location of the image is required | choose a location  | location is updated  |
+| attributing a tag to the image  | choose a tag  | tag is updated  |
 
 ### Technologies Used
 * CSS.
