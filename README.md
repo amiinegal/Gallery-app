@@ -6,14 +6,14 @@ _Gallery app that helps a user to store images specifying there location and cat
 ### Author
 _amin egal_
 
-<!-- ### Setup and installation
+### Setup and installation
 * _Click on `clone/download` to get import link_
 * Install the prerequisites either globally or in a virtual environment.
 * Install via pip:
             ``` pip install -r requirements.txt ```
 
 *  Run by:
-           ``` pyhton3.6 manage.py server ``` -->
+           ``` pyhton3.6 manage.py server ```
 
 BDD
 
