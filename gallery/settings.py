@@ -28,7 +28,7 @@ SECRET_KEY = 'o!py_fbb#@)qky2xkp9cpus&=_nf8r7yp86mn(b-5f^wzk907i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-#ALLOWED_HOSTS = []
+ALLOWED_HOSTS = []
 
 
 # Application definition
