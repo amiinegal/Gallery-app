@@ -1,3 +1,7 @@
 {
+<<<<<<< HEAD
     "python.pythonPath": "gallery/virtual/bin/python"
+=======
+    "python.pythonPath": "virtual/bin/python3.6"
+>>>>>>> origin/master
 }

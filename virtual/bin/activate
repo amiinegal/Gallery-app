@@ -37,7 +37,11 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
+<<<<<<< HEAD
 VIRTUAL_ENV="/home/amin/Documents/moringa-school-projects/gallery/virtual"
+=======
+VIRTUAL_ENV="/home/amin/Documents/moringa-school-projects/gallery/gallery/virtual"
+>>>>>>> origin/master
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
