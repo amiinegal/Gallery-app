@@ -26,7 +26,7 @@ def homepage(request):
 
     return render(request, 'index.html', {'locations':locations,
                                           'tags': tags,
-                                          'pictures':pictures})
+                                          'images':images})
 
 # Search for an image
 def search_image(request):
