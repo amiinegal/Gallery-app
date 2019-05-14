@@ -102,7 +102,7 @@ if config('MODE')=="dev":
 else:
    DATABASES = {
        'default': dj_database_url.config(
-           default=config('DATABASE_URL')
+           default='postgres://amin:123@localhost/gallery'
        )
    }
 
